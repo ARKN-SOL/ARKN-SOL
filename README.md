@@ -1,6 +1,6 @@
 # **GemLaunch ICO Suite powered by Arkenstone**
 
-The **GemLaunch ICO Suite** is a powerful platform designed for launching initial coin offerings (ICOs) on the Solana blockchain. Whether you’re an entrepreneur, developer, or Solana enthusiast, this suite provides essential tools to easily create, manage, and track your project's ICO.
+The **GemLaunch Suite** is a powerful platform designed for launching initial coin offerings (ICOs) on the Solana blockchain. Whether you’re an entrepreneur, developer, or Solana enthusiast, this suite provides essential tools to easily create, manage, and track your project's ICO.
 
 ## Key Features:
 
@@ -24,3 +24,13 @@ Once the first version is released, this GitHub will include code snippets to se
     
 3.  **Real-Time Updates**: The widget automatically updates as transactions occur during your ICO. Investors can track contributions and monitor progress.
 
+### Security:
+
+🛡Quantstamp Audit:
+https://certificate.quantstamp.com/full/arkenstone-arkn/4a1c41e3-726a-470e-9f8f-5dec1e145dd3/index.html
+
+🛡Coinsult Audit:
+https://coinsult.net/projects/arkenstone-sol/
+
+### Demo Product:
+💎 https://arkenstone.gold/suite/
